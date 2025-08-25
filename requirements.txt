@@ -1,0 +1,8 @@
+ddash
+dash-bootstrap-components
+pandas
+numpy
+plotly
+google-generativeai
+python-dotenv
+gunicorn
